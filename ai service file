@@ -1,0 +1,5 @@
+# Create new directory and files
+mkdir -p services/ai
+touch services/ai_service.py
+touch services/prompts.py
+touch services/__init__.py
